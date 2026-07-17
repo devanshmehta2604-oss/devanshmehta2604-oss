@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi there! 👋 I'm Devansh Mehta
 
-<!--
-**devanshmehta2604-oss/devanshmehta2604-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student with a strong passion for Artificial Intelligence, Machine Learning, Software Development, and problem-solving. I enjoy exploring new technologies, building practical projects, and continuously improving my programming skills through hands-on learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to develop innovative solutions that create real-world impact while growing into a skilled software engineer. I believe in learning by building, so this profile documents my journey—from beginner projects and coding challenges to more advanced applications in AI, data science, and software engineering.
+
+What I'm currently learning
+
+- 🐍 Python Programming
+- 💻 C Programming
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Structures & Algorithms
+- 🌐 Git & GitHub
+- 🗄️ SQL & Database Management
+- 📈 Data Analytics
+
+What you'll find here
+
+- Personal and academic projects
+- AI and Machine Learning experiments
+- Coding practice and DSA solutions
+- Open-source contributions
+- Notes and learning resources
+- Continuous updates as I grow as a developer
+
+I'm always excited to learn, collaborate, and connect with developers who share similar interests. Every project here represents another step in my journey toward becoming a better engineer.
+
+Thanks for visiting my profile. Feel free to explore my repositories, share feedback, or collaborate on interesting ideas.
+
+"Keep learning, keep building, and keep improving—one commit at a time." 🚀
